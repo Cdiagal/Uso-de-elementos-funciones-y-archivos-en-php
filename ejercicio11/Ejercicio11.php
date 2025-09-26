@@ -18,6 +18,7 @@ fclose($archivo);
 
 $entradas = file("diario.txt");
 
+
 echo "Diario secreto: " . PHP_EOL;
 
 foreach ($entradas as $linea) {
