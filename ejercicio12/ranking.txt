@@ -1,0 +1,5 @@
+Zelda:10
+ MArio: 9
+ Sonic: 8
+ Doom: 7
+ FinalFantasy: 6

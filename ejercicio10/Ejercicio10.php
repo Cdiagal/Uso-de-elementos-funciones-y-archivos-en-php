@@ -12,6 +12,12 @@ $archivo = "datos.json";
 
 $contenido = file_get_contents($archivo);
 
+$solucion = json_decode($contenido);
+
+
+
+
+
 
 
 ?>
